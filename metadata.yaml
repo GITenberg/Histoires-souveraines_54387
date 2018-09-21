@@ -1,5 +1,8 @@
 _repo: Histoires-souveraines_54387
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54387-h/images/cover.jpg
 creator:
   author:
     agent_name: Villiers de L'Isle-Adam, Auguste, comte de
@@ -18,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
     - http://fr.wikipedia.org/wiki/Auguste_Villiers_de_l%27Isle-Adam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54387#Histoires-souveraines
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2017-03-18'
 gutenberg_type: Text
